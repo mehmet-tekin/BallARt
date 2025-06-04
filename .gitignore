@@ -1,0 +1,81 @@
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Uncomment if you have Unity Crash Reporter folder
+# [Uu]ser[Ss]ettings/
+
+# ======================== #
+# Visual Studio / MonoDevelop
+# ======================== #
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Mono auto-generated files
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# =================================== #
+# OS‐generated (Windows/macOS/Linux) #
+# =================================== #
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# macOS Finder info and resource fork
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# ====================== #
+# Unity Asset Store files #
+# ====================== #
+
+# Import/Export .unitypackage
+*.unitypackage
